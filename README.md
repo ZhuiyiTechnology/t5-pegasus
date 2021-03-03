@@ -20,7 +20,13 @@
 
 ## 部分评测
 
+摘要生成效果：
 
+<img src="https://raw.githubusercontent.com/ZhuiyiTechnology/t5-pegasus/main/csl-lcsts.png" width=300>
+
+小样本学习：
+
+<img src="https://raw.githubusercontent.com/ZhuiyiTechnology/t5-pegasus/main/few-show.png" width=300>
 
 ## 如何引用
 
