@@ -24,11 +24,11 @@
 
 摘要生成效果：
 
-<img src="https://raw.githubusercontent.com/ZhuiyiTechnology/t5-pegasus/main/csl-lcsts.png" width=400>
+<img src="https://raw.githubusercontent.com/ZhuiyiTechnology/t5-pegasus/main/csl-lcsts.png" width=600>
 
 小样本学习：
 
-<img src="https://raw.githubusercontent.com/ZhuiyiTechnology/t5-pegasus/main/few-shot.png" width=400>
+<img src="https://raw.githubusercontent.com/ZhuiyiTechnology/t5-pegasus/main/few-shot.png" width=600>
 
 ## 如何引用
 
