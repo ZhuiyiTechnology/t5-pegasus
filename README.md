@@ -12,7 +12,7 @@
 
 预训练任务模仿了PEGASUS的摘要式预训练。具体来说，假设一个文档有n个句子，我们从中挑出大约n/4个句子（可以不连续），使得这n/4个句子拼起来的文本，跟剩下的3n/4个句子拼起来的文本，最长公共子序列尽可能长，然后我们将3n/4个句子拼起来的文本视为原文，n/4个句子拼起来的文本视为摘要，通过这样的方式构成一个“(原文, 摘要)”的伪摘要数据对。
 
-<img src="https://kexue.fm/usr/uploads/2021/03/2339430132.png" width=500>
+<img src="https://raw.githubusercontent.com/ZhuiyiTechnology/t5-pegasus/main/data-sample.png" width=500>
 
 ## 模型下载
 
