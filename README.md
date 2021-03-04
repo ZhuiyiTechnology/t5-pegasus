@@ -16,7 +16,7 @@
 
 ## 模型下载
 
-目前开源的T5 PEGASUS是base版，总参数量为2.75亿，训练时最大长度为512，batch_size为96，学习率为10<sup>-4</sup>$，使用6张3090训练了100万步，训练时间约13天，数据是30多G的精处理通用语料，训练acc约47%，训练loss约2.97。模型使用<a href="bert4keras" target="_blank">bert4keras</a>进行编写、训练和测试。
+目前开源的T5 PEGASUS是base版，总参数量为2.75亿，训练时最大长度为512，batch_size为96，学习率为10<sup>-4</sup>，使用6张3090训练了100万步，训练时间约13天，数据是30多G的精处理通用语料，训练acc约47%，训练loss约2.97。模型使用<a href="bert4keras" target="_blank">bert4keras</a>进行编写、训练和测试。
 
 运行环境：tensorflow 1.15 + keras 2.3.1 + bert4keras 0.10.0
 
