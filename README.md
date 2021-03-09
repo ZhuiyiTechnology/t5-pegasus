@@ -22,6 +22,10 @@
 
 链接: https://pan.baidu.com/s/1lQ9Dt9wZDO3IgiCL9tP-Ug 提取码: 3sfn
 
+## 其他框架
+
+网友renmada转的pytorch版：https://github.com/renmada/t5-pegasus-pytorch
+
 ## 部分评测
 
 摘要生成效果：
