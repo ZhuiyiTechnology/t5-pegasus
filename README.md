@@ -22,7 +22,7 @@
 
 链接: https://pan.baidu.com/s/1lQ9Dt9wZDO3IgiCL9tP-Ug 提取码: 3sfn
 
-**2021年03月16日：** 新增T5 PEGASUS的small版，参数量为0.95亿，对显存更友好，训练参数与base版一致（最大长度为512，batch_size为96，学习率为10<sup>-4</sup>，使用3张TITAN训练了100万步，训练时间约12天，数据是30多G的精处理通用语料，训练acc约42.3%，训练loss约3.40。），中文效果相比base版仅仅略降，比mT5 small版要好。
+**2021年03月16日：** 新增T5 PEGASUS的small版，参数量为0.95亿，对显存更友好，训练参数与base版一致（最大长度为512，batch_size为96，学习率为10<sup>-4</sup>，使用3张TITAN训练了100万步，训练时间约12天，数据是30多G的精处理通用语料，训练acc约42.3%，训练loss约3.40。），中文效果相比base版略降，比mT5 small版要好。
 
 链接: https://pan.baidu.com/s/1bXRVWnDyAck9VfSO9_1oJQ 提取码: qguk
 
